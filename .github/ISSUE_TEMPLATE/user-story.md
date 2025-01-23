@@ -1,9 +1,9 @@
 ---
 name: User Story
-about: This template defines a user story
+about: This template defines a user story (Custom Story Template)
 title: ''
 labels: ''
-assignees: ''
+assignees: irtezasyed01
 
 ---
 
